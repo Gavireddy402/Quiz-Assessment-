@@ -1,0 +1,24 @@
+body{
+  display: flex;
+  justify-content: center;
+  height: 1250px;
+   width: 1000px;
+   margin: 60px auto 0;
+   text-align: center;
+   padding: 35px;
+   border: 3px solid rgb(255, 194, 13);
+border-radius: 70px 0 70px 0;
+background-image: url(https://th.bing.com/th/id/R.f953f3fe8474e40d9635519b1cf7c1f6?rik=P9Qy0y1KqY2OMw&riu=http%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f150000%2fvelka%2fwhite-background-14532158163GC.jpg&ehk=02auqxmsmEUs3xYvBGwufRpWVkuXYiQgRvgzJLXEA6s%3d&risl=&pid=ImgRaw&r=0);
+}
+
+ul{
+  display: flex;
+  list-style: none;
+}
+
+li{
+  padding: 5px;
+}
+li:hover{
+  background-color: burlywood;
+}
